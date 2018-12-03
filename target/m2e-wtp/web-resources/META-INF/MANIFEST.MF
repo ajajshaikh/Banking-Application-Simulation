@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Myapplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ajaj
+Implementation-Vendor-Id: com.ajaj
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/firstproject
+Created-By: Maven Integration for Eclipse
+
